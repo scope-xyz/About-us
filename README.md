@@ -14,6 +14,8 @@ Our team have in-depth knowledge of software development processes and devops li
 
 **Our Technology Stack**
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/xyz-technology/xyz-technology)
+
 https://stackshare.io/companies/xyz-technology
 
 **Contact Us**
